@@ -1,8 +1,3 @@
-> _Counting all the assholes in the room.
-> Well I´m definitely not alone..._
-> <p align="right">Volbeat</p>
-
----
 ### :man_technologist: About me:
 
  - :alembic: Chemical Engineer
